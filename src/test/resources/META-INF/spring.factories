@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = com.diti5.exam.\
+    config.TestContainersSpringContextCustomizerFactory
