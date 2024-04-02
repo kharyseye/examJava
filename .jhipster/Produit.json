@@ -1,0 +1,28 @@
+{
+  "annotations": {
+    "changelogDate": "20240402180957"
+  },
+  "databaseType": "mongodb",
+  "dto": "no",
+  "entityTableName": "produit",
+  "fields": [
+    {
+      "fieldName": "description",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nom",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "prix",
+      "fieldType": "Double"
+    }
+  ],
+  "name": "Produit",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}
